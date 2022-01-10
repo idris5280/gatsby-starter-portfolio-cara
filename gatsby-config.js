@@ -9,7 +9,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Sollers Group`,
     siteTitleAlt: `The Sollers Group`,
-    siteHeadline: `Tech & IT? We make it easy.`,
+    siteHeadline: `A boutique staffing and recruiting agency for Scrum Masters by Scrum Masters.`,
     siteUrl: `https://sollersgroup.com`,
     siteDescription: `Our goal is to provide training, job placement, and mentorship to help pave the way for professionals seeking career growth.`,
     siteLanguage: `en`,
